@@ -13,4 +13,4 @@ de Ingeniería en Ciencia de Datos, Universidad EAN.
 2. La limpieza de datos y el análisis exploratorio (EDA) utilizando Python.
 3. La creación de visualizaciones estadísticas y tableros interactivos empleando R.
 
-Arturo · 2026
+Sebastian Gracia · 2026
